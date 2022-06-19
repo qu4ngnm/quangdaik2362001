@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Quangg
-- 👀 I’m interested in Marvel's film, music, guitar,...
+- 👀 I’m interested in music, reading book...
 - 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on pentest
 - 📫 How to reach me: minhquangnguyen7@gmail.com
 
 <!---
